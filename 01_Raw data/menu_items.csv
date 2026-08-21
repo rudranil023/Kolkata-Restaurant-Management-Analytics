@@ -1,0 +1,121 @@
+item_id,category_id,item_name,cost_price,selling_price,food_type,available
+1,3,Cold Coffee 1,66,280,Veg,Yes
+2,5,Mishti Doi 2,230,417,Veg,Yes
+3,7,Chicken Chowmein 3,87,282,Non Veg,Yes
+4,6,Mishti Doi 4,121,209,Veg,Yes
+5,3,Chicken Chowmein 5,181,305,Non Veg,Yes
+6,5,Mishti Doi 6,101,145,Veg,Yes
+7,2,Chicken Biryani 7,185,375,Non Veg,Yes
+8,7,Mutton Kosha 8,52,137,Non Veg,Yes
+9,7,Masala Dosa 9,167,384,Veg,Yes
+10,5,Fish Fry 10,194,372,Non Veg,Yes
+11,2,Cold Coffee 11,76,282,Veg,Yes
+12,3,Chicken Chaap 12,75,218,Non Veg,Yes
+13,7,Cold Coffee 13,62,102,Veg,Yes
+14,8,Mishti Doi 14,162,240,Veg,Yes
+15,6,Chicken Chaap 15,40,78,Non Veg,Yes
+16,7,Mishti Doi 16,76,178,Veg,Yes
+17,1,Mutton Biryani 17,171,382,Non Veg,Yes
+18,6,Paneer Butter Masala 18,56,198,Veg,Yes
+19,3,Chicken Biryani 19,225,297,Non Veg,Yes
+20,5,Paneer Butter Masala 20,41,184,Veg,Yes
+21,6,Rosogolla 21,185,265,Veg,Yes
+22,2,Masala Dosa 22,178,290,Veg,Yes
+23,8,Burger 23,149,315,Non Veg,Yes
+24,3,Mutton Kosha 24,142,327,Non Veg,Yes
+25,2,Pizza 25,247,292,Non Veg,Yes
+26,6,Lassi 26,195,393,Veg,Yes
+27,7,Veg Fried Rice 27,134,287,Veg,Yes
+28,3,Cold Coffee 28,116,233,Veg,Yes
+29,1,Burger 29,88,174,Non Veg,Yes
+30,8,Cold Coffee 30,216,267,Veg,Yes
+31,6,Fish Fry 31,182,360,Non Veg,Yes
+32,6,Paneer Butter Masala 32,175,266,Veg,Yes
+33,8,Pizza 33,141,237,Non Veg,Yes
+34,4,Mutton Biryani 34,86,167,Non Veg,Yes
+35,2,Burger 35,96,190,Non Veg,Yes
+36,2,Cold Coffee 36,88,253,Veg,Yes
+37,5,Cold Coffee 37,221,376,Veg,Yes
+38,8,Chicken Chaap 38,97,265,Non Veg,Yes
+39,2,Pizza 39,228,389,Non Veg,Yes
+40,2,Mutton Kosha 40,144,347,Non Veg,Yes
+41,8,Mutton Biryani 41,74,232,Non Veg,Yes
+42,2,Burger 42,200,414,Non Veg,Yes
+43,2,Burger 43,157,362,Non Veg,Yes
+44,3,Paneer Butter Masala 44,89,263,Veg,Yes
+45,2,Masala Dosa 45,75,200,Veg,Yes
+46,1,Rosogolla 46,143,233,Veg,Yes
+47,6,Chicken Biryani 47,50,83,Non Veg,Yes
+48,4,Lassi 48,157,263,Veg,Yes
+49,3,Mutton Biryani 49,149,201,Non Veg,Yes
+50,4,Pizza 50,184,243,Non Veg,Yes
+51,6,Mutton Kosha 51,83,206,Non Veg,Yes
+52,6,Lassi 52,245,463,Veg,Yes
+53,1,Cold Coffee 53,105,166,Veg,Yes
+54,6,Chicken Chaap 54,171,389,Non Veg,Yes
+55,6,Burger 55,224,379,Non Veg,Yes
+56,6,Chicken Biryani 56,65,186,Non Veg,Yes
+57,6,Burger 57,245,429,Non Veg,Yes
+58,1,Mutton Biryani 58,212,304,Non Veg,Yes
+59,6,Veg Fried Rice 59,89,296,Veg,Yes
+60,1,Masala Dosa 60,188,330,Veg,Yes
+61,1,Mutton Biryani 61,164,222,Non Veg,Yes
+62,5,Mutton Biryani 62,87,155,Non Veg,Yes
+63,5,Burger 63,215,416,Non Veg,Yes
+64,3,Paneer Butter Masala 64,190,284,Veg,Yes
+65,5,Burger 65,153,186,Non Veg,Yes
+66,6,Chicken Biryani 66,78,232,Non Veg,Yes
+67,8,Burger 67,48,87,Non Veg,Yes
+68,3,Mutton Biryani 68,198,393,Non Veg,Yes
+69,7,Cold Coffee 69,161,231,Veg,Yes
+70,8,Lassi 70,140,228,Veg,Yes
+71,2,Mishti Doi 71,132,246,Veg,Yes
+72,4,Burger 72,119,182,Non Veg,Yes
+73,1,Pizza 73,94,167,Non Veg,Yes
+74,6,Mishti Doi 74,226,375,Veg,Yes
+75,8,Chicken Chowmein 75,139,259,Non Veg,Yes
+76,1,Chicken Chowmein 76,125,303,Non Veg,Yes
+77,6,Masala Dosa 77,98,133,Veg,Yes
+78,8,Chicken Chaap 78,195,236,Non Veg,Yes
+79,3,Cold Coffee 79,226,427,Veg,Yes
+80,5,Fish Fry 80,138,237,Non Veg,Yes
+81,5,Mutton Biryani 81,131,306,Non Veg,Yes
+82,3,Pizza 82,218,256,Non Veg,Yes
+83,2,Mutton Kosha 83,91,230,Non Veg,Yes
+84,2,Cold Coffee 84,132,234,Veg,Yes
+85,4,Rosogolla 85,243,309,Veg,Yes
+86,2,Cold Coffee 86,117,234,Veg,Yes
+87,6,Lassi 87,170,362,Veg,Yes
+88,6,Chicken Chaap 88,180,393,Non Veg,Yes
+89,6,Paneer Butter Masala 89,55,265,Veg,Yes
+90,6,Chicken Chowmein 90,240,393,Non Veg,Yes
+91,6,Burger 91,102,192,Non Veg,Yes
+92,3,Chicken Chowmein 92,74,156,Non Veg,Yes
+93,8,Chicken Biryani 93,143,287,Non Veg,Yes
+94,5,Paneer Butter Masala 94,83,263,Veg,Yes
+95,3,Mutton Biryani 95,117,331,Non Veg,Yes
+96,5,Veg Fried Rice 96,226,402,Veg,Yes
+97,6,Burger 97,58,136,Non Veg,Yes
+98,2,Pizza 98,189,264,Non Veg,Yes
+99,6,Veg Fried Rice 99,159,280,Veg,Yes
+100,7,Rosogolla 100,224,271,Veg,Yes
+101,8,Mishti Doi 101,121,195,Veg,Yes
+102,5,Veg Fried Rice 102,179,214,Veg,Yes
+103,3,Rosogolla 103,200,298,Veg,Yes
+104,1,Chicken Chaap 104,95,137,Non Veg,Yes
+105,8,Paneer Butter Masala 105,91,275,Veg,Yes
+106,2,Veg Fried Rice 106,90,181,Veg,Yes
+107,1,Lassi 107,73,256,Veg,Yes
+108,2,Chicken Biryani 108,58,235,Non Veg,Yes
+109,3,Chicken Chowmein 109,41,119,Non Veg,Yes
+110,1,Veg Fried Rice 110,203,315,Veg,Yes
+111,1,Mutton Kosha 111,94,206,Non Veg,Yes
+112,1,Chicken Chowmein 112,206,360,Non Veg,Yes
+113,6,Paneer Butter Masala 113,84,128,Veg,Yes
+114,7,Mishti Doi 114,243,284,Veg,Yes
+115,6,Mutton Biryani 115,238,394,Non Veg,Yes
+116,7,Pizza 116,105,253,Non Veg,Yes
+117,1,Mishti Doi 117,46,157,Veg,Yes
+118,6,Pizza 118,54,190,Non Veg,Yes
+119,6,Pizza 119,80,133,Non Veg,Yes
+120,3,Chicken Biryani 120,93,159,Non Veg,Yes
